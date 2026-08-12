@@ -1,19 +1,88 @@
-# About Me:
-﹗Heya, I am Ekam!<br>﹗Often found meddling with languages like Java, C++, and C<br>﹗Passionate about Systems Architecture and Cyber Security<br>﹗Learning Kotlin and Swift while creating VoxReader<br>﹗Portfolio: www.ekamjot.me <br><br>
+# Ekamjot Singh
 
+Final-year computer science student in Winnipeg, currently a Software Developer Intern at **Activate Games**. I like working on the layer underneath the product: shared libraries, deployment plumbing, the unglamorous infrastructure everything else sits on. I self-host most of mine, because that's how you actually learn it.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ejdhindsa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ejdhindsa@Gmail.com)  <br><br>
+Graduating December 2026. Headed toward platform and full-stack work, with AI next on the roadmap.
 
-# Technical Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/><br/>
-
-# Github Statistics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ejdhindsa&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /><br/><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ejdhindsa&theme=dark&hide_border=true" /><br/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejdhindsa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /><br><br><br>
-</p>
+[ekamjot.me](https://ekamjot.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ejdhindsa) &nbsp;·&nbsp; [ejdhindsa@gmail.com](mailto:ejdhindsa@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ejdhindsa&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## What I'm doing
+
+**Software Developer Intern, Activate Games** _(Jan – Dec 2026)_
+
+Took sole ownership of a rebranded production app, end to end. Contributed heavily to standardizing the core library components that every frontend app in the company builds on. Wrote product briefs. Before that I was on sustainability, where I handled bugs across the stack and built out the locale management system.
+
+**Tech Lead, UWACSSA** _(University of Winnipeg Applied Computer Science Student Association)_
+
+Self-hosted a Forgejo instance on a VPS so the team gets real CI/CD on private repos without paying for it. Turns out the fastest way to learn deployment is to be the only person who can fix it.
+
+---
+
+## Selected work
+
+**[ViStructure](https://github.com/ejdhindsa/ViStructure)**
+A web tool that visualizes data structures and algorithms, built for my DSA course. My professor then used it in her own classes for two semesters.
+`JavaScript`
+
+**[unwreck](https://github.com/ejdhindsa/unwreck)**
+A hub for everything I build. It pulls each project's README straight from GitHub and serves every project on its own subdomain at `*.unwreck.dev`. VPS and Cloudflare routing are up, frontend is in progress.
+`Vue 3` `TypeScript` `Vite` `Cloudflare`
+
+**[this-needs-to-be-short](https://github.com/ejdhindsa/this-needs-to-be-short)**
+A URL shortener. Backend is live. Yes, I know. The name is the longest thing in the repo, and the commits are conventional.
+`TypeScript`
+
+**[concurrent-health-checker](https://github.com/ejdhindsa/concurrent-health-checker)**
+Concurrent HTTP health checks over a bounded worker pool instead of one goroutine per URL, with table-driven tests on the one function that can actually fail. Step one of learning Go properly instead of just reading about it.
+`Go`
+
+---
+
+## The stack, honestly
+
+Most profiles list every technology the author has ever made eye contact with. Mine did too, until recently. Here's the honest version.
+
+**Reach for without thinking**
+`Java` `JavaScript` `Vue` `React` `Tailwind` `SQL` `MySQL` `Neovim`
+
+**Productive in, still learning the deep end**
+`TypeScript` `Python` `Docker` `Cloudflare Workers` `CI/CD` `PostgreSQL`
+
+**Can read it and debug it, wouldn't claim fluency**
+`C` `Go` `Caddy` `Bash` `Node.js` `Linux`
+
+---
+
+## Infrastructure I actually run
+
+Not things I've read about. Things that page me when they break.
+
+- A VPS running Caddy, serving `unwreck.dev` with every project on its own subdomain
+- Cloudflare for DNS, wildcard subdomain routing, and Workers
+- A self-hosted Forgejo instance running CI/CD for UWACSSA
+- Docker and pipelines holding the whole thing together
+
+---
+
+## Elsewhere
+
+- **2nd place, ICPC**, university level, 2025
+- **IEEEXtreme**, the 24-hour coding competition
+- **Aesthetically Pleasing**, UManitoba DevClub, February 2026, for a game we built in Unity
+
+---
+
+## Away from the keyboard
+
+I read constantly and I play a lot of games, and I will happily talk your ear off about either. I'm an extrovert who wandered into a profession full of introverts, which mostly means I'm the one asking the question everyone else was also quietly confused by. I like being bad at new things in public. It's the fastest way to stop being bad at them.
+
+Currently deep in Warhammer 40k. Imperial Fists, Rogal Dorn's lot: the ones who build the fortifications and then hold them while everything around them falls apart. I've been told this explains a great deal about my choice of career.
+
+---
+
+Reach me at [ejdhindsa@gmail.com](mailto:ejdhindsa@gmail.com) or on [LinkedIn](https://linkedin.com/in/ejdhindsa). I answer everything.
+
+> _"Towering genius disdains a beaten path. It seeks regions hitherto unexplored."_
+> — Abraham Lincoln, Lyceum Address, 1838
